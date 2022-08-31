@@ -3,3 +3,7 @@ numpy
 pandas
 sklearn
 matplotlib
+seaborn
+passlib
+crypt
+pycrypto
